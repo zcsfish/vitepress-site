@@ -3,16 +3,15 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "我的世界资源包下载网站"
+  text: "基于VitePress搭建"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 快速开始
+      link: /quickstart.md
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 加入频道
+      link: https://pd.qq.com/s/5javuef4r
 
 features:
   - title: Feature A
