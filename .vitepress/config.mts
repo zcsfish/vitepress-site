@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  srcDir: "./docs/",
   title: "我的世界资源包",
   description: "基于VitePress搭建",
-  srcDir: '/docs',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
